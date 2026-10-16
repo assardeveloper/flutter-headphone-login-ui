@@ -1,16 +1,24 @@
-# youtube_videos
+# Headphone Login UI – Flutter
 
-A new Flutter project.
+A clean headphone-themed login screen built with Flutter.
 
-## Getting Started
+## Run it
 
-This project is a starting point for a Flutter application.
+```bash
+git clone https://github.com/assardeveloper/youtube_videos.git
+cd youtube_videos
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Files
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- `lib/main.dart` – app entry point
+- `lib/headphone_login_page.dart` – the login screen
+- `lib/headphone_widgets.dart` – reusable widgets (header image, text fields, buttons, social icons)
+- `assets/images/headphone.png` – headphone image
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages
+
+- [google_fonts](https://pub.dev/packages/google_fonts) – Quicksand font
+- [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter) – social icons
