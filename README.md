@@ -5,8 +5,8 @@ A clean headphone-themed login screen built with Flutter.
 ## Run it
 
 ```bash
-git clone https://github.com/assardeveloper/youtube_videos.git
-cd youtube_videos
+git clone https://github.com/assardeveloper/flutter-headphone-login-ui.git
+cd flutter-headphone-login-ui
 flutter pub get
 flutter run
 ```
